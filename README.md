@@ -1,6 +1,9 @@
 👋 **Olá, sou o Pedro Alcantara!**  
 💻 **Quality Assurance | Desenvolvimento de Software**  
 
+🎓 **Atualmente cursando**  
+- **Análise e Desenvolvimento de Sistemas**
+  
 🎯 **Interesses**  
 - Testes de Software  
 - Automação de Processos  
