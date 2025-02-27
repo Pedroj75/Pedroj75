@@ -22,9 +22,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por tecnologi
 ### 📊 GitHub Stats
 <div align="center">
   
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAlcantara75&show_icons=true&theme=tokyonight)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedroj75&show_icons=true&theme=tokyonight)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlcantara75&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroj75&layout=compact&theme=tokyonight)
 
 </div>
 
