@@ -5,18 +5,16 @@
 - **Análise e Desenvolvimento de Sistemas**
 
 🎯 **Interesses**  
-- Testes de Software  
-- Automação de Processos  
-- Qualidade de Sistemas  
+- Testes de Software (Web e API)
+- Automação de Testes
+- Qualidade de Sistemas
 - Desenvolvimento de Software
 
 📚 **Atualmente estou**:  
-- Aprimorando minhas habilidades e conhecimentos no desenvolvimento e automação de soluções.  
-- Compartilhando minha jornada de aprendizado e evolução, buscando sempre entregar soluções eficientes e de alta qualidade.
+- Aprofundando conhecimentos em testes funcionais, testes de API e automação, utilizando ferramentas e práticas voltadas à qualidade de software. Compartilho aqui minha evolução prática, estudos e projetos relacionados à área de QA e desenvolvimento
 
 🚀 **Objetivo**  
-- Continuar evoluindo como profissional, contribuindo para projetos de software e qualidade.
-
+- Evoluir como QA técnico, contribuindo para a entrega de software confiável, eficiente e com foco na experiência do usuário
 ---
 
 ### 🔧 Tecnologias e Ferramentas
