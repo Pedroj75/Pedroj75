@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Pedro Alcantara
 
-💻 Quality Assurance | Infraestrutura & Cloud | Cibersegurança (Blue Team / SOC) | IA aplicada ao desenvolvimento
+💻 Quality Assurance | Infraestrutura & Cloud | Cibersegurança | IA aplicada ao desenvolvimento
 
 ---
 
